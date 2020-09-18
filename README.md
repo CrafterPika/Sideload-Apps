@@ -4,14 +4,14 @@ Tweaks for jailed devices by loading it as an library on main app executable.
 ## Tweaks
 List of tweaks.
 
-### AppCake++ v0.3a
+### AppCake++
 - Support AppCake v7.0.3 - v7.0.4
 - Removes Ads
 - Removes AppSync Pop up
 <br>
-<a href="https://github.com/CrafterPika/Sideload-Apps/raw/master/AppCake/libAppCake.dylib">Download (AppCake v7.0.3 - 7.0.4)</a>
+<a href="https://github.com/CrafterPika/Sideload-Apps/raw/master/AppCake/libAppCake.dylib">Download v0.3a (AppCake v7.0.3 - 7.0.4)</a>
 <br>
-<a href="https://github.com/CrafterPika/Sideload-Apps/raw/master/AppCake/libAppCake2.dylib">Download (AppCake v7.0.4 - 7.1.0)</a>
+<a href="https://github.com/CrafterPika/Sideload-Apps/raw/master/AppCake/libAppCake2.dylib">Download v0.5a (AppCake v7.0.4 - 7.1.0)</a>
 
 ### ZipAppLite++ v0.1a
 - Removes Ads
