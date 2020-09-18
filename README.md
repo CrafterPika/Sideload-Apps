@@ -5,7 +5,7 @@ Tweaks for jailed devices by loading it as an library on main app executable.
 List of tweaks.
 
 ### AppCake++
-- Support AppCake v7.0.3 - v7.0.4
+- Support AppCake v7.0.3 - v7.1.0
 - Removes Ads
 - Removes AppSync Pop up
 <br>
