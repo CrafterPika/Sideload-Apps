@@ -9,14 +9,9 @@ List of tweaks.
 - Removes Ads
 - Removes AppSync Pop up
 <br>
-<a href="https://github.com/CrafterPika/Sideload-Apps/raw/master/AppCake/libAppCake.dylib">Download</a>
-
-### AppCake++ v0.4a
-- Support AppCake v7.0.4 - v7.1.0
-- Removes Ads
-- Removes AppSync Pop up
+<a href="https://github.com/CrafterPika/Sideload-Apps/raw/master/AppCake/libAppCake.dylib">Download Download (AppCake v7.0.3 - 7.0.4)</a>
 <br>
-<a href="https://github.com/CrafterPika/Sideload-Apps/raw/master/AppCake2/libAppCake2.dylib">Download</a>
+<a href="https://github.com/CrafterPika/Sideload-Apps/raw/master/AppCake/libAppCake2.dylib">Download (AppCake v7.0.4 - 7.1.0)</a>
 
 ### ZipAppLite++ v0.1a
 - Removes Ads
