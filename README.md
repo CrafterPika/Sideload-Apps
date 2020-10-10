@@ -1,4 +1,4 @@
-# Sideload-Apps
+# iOSApplicationAddons
 Tweaks for jailed devices by loading it as an library on main app executable.
 
 ## Tweaks
