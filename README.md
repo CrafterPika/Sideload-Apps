@@ -17,7 +17,7 @@ List of tweaks.
 <a href="https://github.com/CrafterPika/Sideload-Apps/raw/master/ZipAppLite/zipapplite_v0.1a.dylib">Download</a>
 
 # How to use
-- You need a [CydiaSubstrate.framework](https://crafterpika.github.io/Files/CydiaSubstrate.zip) and [libloader](https://crafterpika.github.io/Files/libloader.zip)
+- You need a [CydiaSubstrate.framework](http://crafterpika.ml/dl/libs/CydiaSubstrate.zip) and [libloader](http://crafterpika.ml/dl/libs/libloader.zip)
 - Rename the <code>.ipa</code> extension too <code>.zip</code> and unzip it
 - Open the main Executable (Example path: <code>/Payload/AppName.app/AppName</code>) in a Hex editor of your choice
 - Replace all string with <code>/usr/lib/libSystem.B.dylib</code> to <code>@executable_path/Sys.dylib</code> and Save the changes.
